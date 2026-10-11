@@ -1,0 +1,480 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-nat-sci-grade-8",
+  "title": "Natural Sciences Grade 8 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 8 Natural Sciences by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Chapter 1: Photosynthesis and respiration",
+      "sections": [
+        {
+          "id": "sec-01-01-01-photosynthesis",
+          "title": "Photosynthesis",
+          "path": "chapters/01-photosynthesis-and-respiration/01-photosynthesis.mdx",
+          "estimatedMinutes": 27
+        },
+        {
+          "id": "sec-01-02-02-respiration",
+          "title": "Respiration",
+          "path": "chapters/01-photosynthesis-and-respiration/02-respiration.mdx",
+          "estimatedMinutes": 12
+        },
+        {
+          "id": "sec-01-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/01-photosynthesis-and-respiration/03-summary.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 2: Interactions and interdependence within the environment",
+      "sections": [
+        {
+          "id": "sec-02-01-01-what-is-ecology",
+          "title": "What is ecology?",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/01-what-is-ecology.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-02-02-02-ecosystems",
+          "title": "Ecosystems",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/02-ecosystems.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-02-03-03-feeding-relationships",
+          "title": "Feeding relationships",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/03-feeding-relationships.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-02-04-04-energy-flow-food-chains-and-food-webs",
+          "title": "Energy flow: Food chains and food webs",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/04-energy-flow-food-chains-and-food-webs.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-02-05-05-balance-in-an-ecosystem",
+          "title": "Balance in an ecosystem",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/05-balance-in-an-ecosystem.mdx",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "sec-02-06-06-adaptations",
+          "title": "Adaptations",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/06-adaptations.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-02-07-07-conservation-of-the-ecosystem",
+          "title": "Conservation of the ecosystem",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/07-conservation-of-the-ecosystem.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-02-08-08-summary",
+          "title": "Summary",
+          "path": "chapters/02-interactions-and-interdependence-within-the-environment/08-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 3: Microorganisms",
+      "sections": [
+        {
+          "id": "sec-03-01-01-types-of-microorganisms",
+          "title": "Types of microorganisms",
+          "path": "chapters/03-microorganisms/01-types-of-microorganisms.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-03-02-02-harmful-microorganisms",
+          "title": "Harmful microorganisms",
+          "path": "chapters/03-microorganisms/02-harmful-microorganisms.mdx",
+          "estimatedMinutes": 24
+        },
+        {
+          "id": "sec-03-03-03-useful-microorganisms",
+          "title": "Useful microorganisms",
+          "path": "chapters/03-microorganisms/03-useful-microorganisms.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-03-04-04-summary",
+          "title": "Summary",
+          "path": "chapters/03-microorganisms/04-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 4: Life and Living Glossary",
+      "sections": [
+        {
+          "id": "sec-04-01-04-life-and-living-glossary",
+          "title": "4.1 Life and Living Glossary",
+          "path": "chapters/04-life-and-living-glossary/04-life-and-living-glossary.mdx",
+          "estimatedMinutes": 7
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 5: Atoms",
+      "sections": [
+        {
+          "id": "sec-05-01-01-the-building-blocks-of-matter",
+          "title": "The building blocks of matter",
+          "path": "chapters/05-atoms/01-the-building-blocks-of-matter.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-05-02-02-sub-atomic-particles",
+          "title": "Sub-atomic particles",
+          "path": "chapters/05-atoms/02-sub-atomic-particles.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-05-03-03-pure-substances",
+          "title": "Pure substances",
+          "path": "chapters/05-atoms/03-pure-substances.mdx",
+          "estimatedMinutes": 33
+        },
+        {
+          "id": "sec-05-04-04-mixtures-of-elements-and-compounds",
+          "title": "Mixtures of elements and compounds",
+          "path": "chapters/05-atoms/04-mixtures-of-elements-and-compounds.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-05-05-summary",
+          "title": "Summary",
+          "path": "chapters/05-atoms/05-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 6: Particle model of matter",
+      "sections": [
+        {
+          "id": "sec-06-01-01-what-is-the-particle-model-of-matter",
+          "title": "What is the particle model of matter?",
+          "path": "chapters/06-particle-model-of-matter/01-what-is-the-particle-model-of-matter.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-06-02-02-solids-liquids-and-gases",
+          "title": "Solids, liquids and gases",
+          "path": "chapters/06-particle-model-of-matter/02-solids-liquids-and-gases.mdx",
+          "estimatedMinutes": 28
+        },
+        {
+          "id": "sec-06-03-03-changes-of-state",
+          "title": "Changes of state",
+          "path": "chapters/06-particle-model-of-matter/03-changes-of-state.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-06-04-04-density-mass-and-volume",
+          "title": "Density, mass and volume",
+          "path": "chapters/06-particle-model-of-matter/04-density-mass-and-volume.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-06-05-05-density-and-states-of-matter",
+          "title": "Density and states of matter",
+          "path": "chapters/06-particle-model-of-matter/05-density-and-states-of-matter.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-06-06-06-density-of-different-materials",
+          "title": "Density of different materials",
+          "path": "chapters/06-particle-model-of-matter/06-density-of-different-materials.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-06-07-07-expansion-and-contraction-of-materials",
+          "title": "Expansion and contraction of materials",
+          "path": "chapters/06-particle-model-of-matter/07-expansion-and-contraction-of-materials.mdx",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "sec-06-08-08-pressure",
+          "title": "Pressure",
+          "path": "chapters/06-particle-model-of-matter/08-pressure.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-06-09-09-summary",
+          "title": "Summary",
+          "path": "chapters/06-particle-model-of-matter/09-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 7: Chemical reactions",
+      "sections": [
+        {
+          "id": "sec-07-01-01-how-do-we-know-a-chemical-reaction-has-taken-place",
+          "title": "How do we know a chemical reaction has taken place?",
+          "path": "chapters/07-chemical-reactions/01-how-do-we-know-a-chemical-reaction-has-taken-place.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-07-02-02-reactants-and-products",
+          "title": "Reactants and products",
+          "path": "chapters/07-chemical-reactions/02-reactants-and-products.mdx",
+          "estimatedMinutes": 22
+        },
+        {
+          "id": "sec-07-03-03-summary",
+          "title": "Summary",
+          "path": "chapters/07-chemical-reactions/03-summary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 8: Matter and Materials Glossary",
+      "sections": [
+        {
+          "id": "sec-08-01-08-matter-and-materials-glossary",
+          "title": "8.1 Matter and Materials Glossary",
+          "path": "chapters/08-matter-and-materials-glossary/08-matter-and-materials-glossary.mdx",
+          "estimatedMinutes": 7
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 9: Static electricity",
+      "sections": [
+        {
+          "id": "sec-09-01-01-friction-and-static-electricity",
+          "title": "Friction and static electricity",
+          "path": "chapters/09-static-electricity/01-friction-and-static-electricity.mdx",
+          "estimatedMinutes": 24
+        },
+        {
+          "id": "sec-09-02-02-summary",
+          "title": "Summary",
+          "path": "chapters/09-static-electricity/02-summary.mdx",
+          "estimatedMinutes": 7
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Energy transfer in electrical systems",
+      "sections": [
+        {
+          "id": "sec-10-01-01-circuits-and-current-electricity",
+          "title": "Circuits and current electricity",
+          "path": "chapters/10-energy-transfer-in-electrical-systems/01-circuits-and-current-electricity.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-02-02-components-of-a-circuit",
+          "title": "Components of a circuit",
+          "path": "chapters/10-energy-transfer-in-electrical-systems/02-components-of-a-circuit.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-10-03-03-effects-of-an-electric-current",
+          "title": "Effects of an electric current",
+          "path": "chapters/10-energy-transfer-in-electrical-systems/03-effects-of-an-electric-current.mdx",
+          "estimatedMinutes": 37
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 11: Series and parallel circuits",
+      "sections": [
+        {
+          "id": "sec-11-01-01-series-circuits",
+          "title": "Series circuits",
+          "path": "chapters/11-series-and-parallel-circuits/01-series-circuits.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-11-02-02-parallel-circuits",
+          "title": "Parallel circuits",
+          "path": "chapters/11-series-and-parallel-circuits/02-parallel-circuits.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-11-03-03-other-output-devices",
+          "title": "Other output devices",
+          "path": "chapters/11-series-and-parallel-circuits/03-other-output-devices.mdx",
+          "estimatedMinutes": 9
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Chapter 12: Visible light",
+      "sections": [
+        {
+          "id": "sec-12-01-01-radiation-of-light",
+          "title": "Radiation of light",
+          "path": "chapters/12-visible-light/01-radiation-of-light.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-12-02-02-spectrum-of-visible-light",
+          "title": "Spectrum of visible light",
+          "path": "chapters/12-visible-light/02-spectrum-of-visible-light.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-12-03-03-opaque-and-transparent-substances",
+          "title": "Opaque and transparent substances",
+          "path": "chapters/12-visible-light/03-opaque-and-transparent-substances.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-12-04-04-absorption-of-light",
+          "title": "Absorption of light",
+          "path": "chapters/12-visible-light/04-absorption-of-light.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-12-05-05-reflection-of-light",
+          "title": "Reflection of light",
+          "path": "chapters/12-visible-light/05-reflection-of-light.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-12-06-06-how-do-we-see-light",
+          "title": "How do we see light?",
+          "path": "chapters/12-visible-light/06-how-do-we-see-light.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-12-07-07-refraction-of-light",
+          "title": "Refraction of light",
+          "path": "chapters/12-visible-light/07-refraction-of-light.mdx",
+          "estimatedMinutes": 44
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Chapter 13: Energy and Change Glossary",
+      "sections": [
+        {
+          "id": "sec-13-01-13-energy-and-change-glossary",
+          "title": "13.1 Energy and Change Glossary",
+          "path": "chapters/13-energy-and-change-glossary/13-energy-and-change-glossary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "Chapter 14: The solar system",
+      "sections": [
+        {
+          "id": "sec-14-01-01-the-sun",
+          "title": "The Sun",
+          "path": "chapters/14-the-solar-system/01-the-sun.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-14-02-02-objects-around-the-sun",
+          "title": "Objects around the Sun",
+          "path": "chapters/14-the-solar-system/02-objects-around-the-sun.mdx",
+          "estimatedMinutes": 50
+        },
+        {
+          "id": "sec-14-03-03-earth-s-position-in-the-solar-system",
+          "title": "Earth's position in the solar system",
+          "path": "chapters/14-the-solar-system/03-earth-s-position-in-the-solar-system.mdx",
+          "estimatedMinutes": 17
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "Chapter 15: Beyond the solar system",
+      "sections": [
+        {
+          "id": "sec-15-01-01-the-milky-way-galaxy",
+          "title": "The Milky Way Galaxy",
+          "path": "chapters/15-beyond-the-solar-system/01-the-milky-way-galaxy.mdx",
+          "estimatedMinutes": 16
+        },
+        {
+          "id": "sec-15-02-02-our-nearest-star",
+          "title": "Our nearest star",
+          "path": "chapters/15-beyond-the-solar-system/02-our-nearest-star.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-15-03-03-light-years-light-hours-and-light-minutes",
+          "title": "Light years, light hours and light minutes",
+          "path": "chapters/15-beyond-the-solar-system/03-light-years-light-hours-and-light-minutes.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-15-04-04-what-is-beyond-the-milky-way-galaxy",
+          "title": "What is beyond the Milky Way Galaxy?",
+          "path": "chapters/15-beyond-the-solar-system/04-what-is-beyond-the-milky-way-galaxy.mdx",
+          "estimatedMinutes": 24
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "Chapter 16: Looking into space",
+      "sections": [
+        {
+          "id": "sec-16-01-01-early-viewing-of-space",
+          "title": "Early viewing of space",
+          "path": "chapters/16-looking-into-space/01-early-viewing-of-space.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-16-02-02-telescopes",
+          "title": "Telescopes",
+          "path": "chapters/16-looking-into-space/02-telescopes.mdx",
+          "estimatedMinutes": 48
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "title": "Chapter 17: Planet Earth and Beyond Glossary",
+      "sections": [
+        {
+          "id": "sec-17-01-17-planet-earth-and-beyond-glossary",
+          "title": "17.1 Planet Earth and Beyond Glossary",
+          "path": "chapters/17-planet-earth-and-beyond-glossary/17-planet-earth-and-beyond-glossary.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    }
+  ]
+}
